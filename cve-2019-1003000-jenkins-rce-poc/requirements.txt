@@ -1,0 +1,9 @@
+certifi==2023.7.22
+chardet==5.2.0
+idna==3.4
+multi-key-dict==2.0.3
+pbr==5.11.1
+python-jenkins==1.8.1
+requests==2.31.0
+six==1.16.0
+urllib3==2.0.4
